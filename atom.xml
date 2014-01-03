@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Rainy Day Sunshine]]></title>
+  <title><![CDATA[Minimal Home-Making]]></title>
   <link href="http://struher.github.io/atom.xml" rel="self"/>
   <link href="http://struher.github.io/"/>
-  <updated>2014-01-02T19:14:21-08:00</updated>
+  <updated>2014-01-02T19:17:08-08:00</updated>
   <id>http://struher.github.io/</id>
   <author>
     <name><![CDATA[Sarah]]></name>
