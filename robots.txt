@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://struher.github.io/sitemap.xml 

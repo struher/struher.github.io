@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Rainy Day Sunshine]]></title>
+  <link href="http://struher.github.io/atom.xml" rel="self"/>
+  <link href="http://struher.github.io/"/>
+  <updated>2014-01-02T19:04:57-08:00</updated>
+  <id>http://struher.github.io/</id>
+  <author>
+    <name><![CDATA[Sarah]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    
+    <title type="html"><![CDATA[the $100 kitchen]]></title>
+    <link href="http://struher.github.io/blog/2014/01/01/the-00-kitchen/"/>
+    
+    <updated>2014-01-01T21:28:00-08:00</updated>
+    <id>http://struher.github.io/blog/2014/01/01/the-00-kitchen</id>
+    
+    <content type="html"><![CDATA[<p>What would you buy if you had to start from scratch and had $100? $50? $20?</p>
+
+<p>Let&#8217;s find out.</p>
+]]></content>
+    
+  </entry>
+  
+</feed>
